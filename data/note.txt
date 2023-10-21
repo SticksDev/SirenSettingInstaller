@@ -1,0 +1,1 @@
+This directory will always contain the latest version of SirenSetting so the installer can automtaiclly download it. 
