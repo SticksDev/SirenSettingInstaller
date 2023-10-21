@@ -1,0 +1,16 @@
+C:\Users\tsomm\source\repos\SirenSettingInstaller\bin\Release\net6.0-windows7.0\SirenSettingInstaller.exe
+C:\Users\tsomm\source\repos\SirenSettingInstaller\bin\Release\net6.0-windows7.0\SirenSettingInstaller.deps.json
+C:\Users\tsomm\source\repos\SirenSettingInstaller\bin\Release\net6.0-windows7.0\SirenSettingInstaller.runtimeconfig.json
+C:\Users\tsomm\source\repos\SirenSettingInstaller\bin\Release\net6.0-windows7.0\SirenSettingInstaller.dll
+C:\Users\tsomm\source\repos\SirenSettingInstaller\bin\Release\net6.0-windows7.0\SirenSettingInstaller.pdb
+C:\Users\tsomm\source\repos\SirenSettingInstaller\obj\Release\net6.0-windows7.0\SirenSettingInstaller.MainWindow.resources
+C:\Users\tsomm\source\repos\SirenSettingInstaller\obj\Release\net6.0-windows7.0\SirenSettingInstaller.csproj.GenerateResource.cache
+C:\Users\tsomm\source\repos\SirenSettingInstaller\obj\Release\net6.0-windows7.0\SirenSettingInstaller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsomm\source\repos\SirenSettingInstaller\obj\Release\net6.0-windows7.0\SirenSettingInstaller.AssemblyInfoInputs.cache
+C:\Users\tsomm\source\repos\SirenSettingInstaller\obj\Release\net6.0-windows7.0\SirenSettingInstaller.AssemblyInfo.cs
+C:\Users\tsomm\source\repos\SirenSettingInstaller\obj\Release\net6.0-windows7.0\SirenSettingInstaller.csproj.CoreCompileInputs.cache
+C:\Users\tsomm\source\repos\SirenSettingInstaller\obj\Release\net6.0-windows7.0\SirenSettingInstaller.dll
+C:\Users\tsomm\source\repos\SirenSettingInstaller\obj\Release\net6.0-windows7.0\refint\SirenSettingInstaller.dll
+C:\Users\tsomm\source\repos\SirenSettingInstaller\obj\Release\net6.0-windows7.0\SirenSettingInstaller.pdb
+C:\Users\tsomm\source\repos\SirenSettingInstaller\obj\Release\net6.0-windows7.0\SirenSettingInstaller.genruntimeconfig.cache
+C:\Users\tsomm\source\repos\SirenSettingInstaller\obj\Release\net6.0-windows7.0\ref\SirenSettingInstaller.dll

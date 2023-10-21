@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainWindow));
             title = new Label();
             subtitle = new Label();
             mainPG = new ProgressBar();
@@ -92,7 +93,10 @@
             Controls.Add(mainPG);
             Controls.Add(subtitle);
             Controls.Add(title);
+            HelpButton = true;
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "MainWindow";
+            ShowIcon = false;
             StartPosition = FormStartPosition.CenterScreen;
             Text = "SirenSetting Limit Adjuster Installer";
             FormClosed += MainWindow_FormClosed;

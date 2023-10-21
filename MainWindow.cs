@@ -67,8 +67,8 @@ namespace SirenSettingInstaller
         {
             MessageBox.Show(message, "SirenSettingLimitAdjuster Installer: Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
         }
-        
-        
+
+
         /// <summary>
         /// Downloads a file to a random folder in the windows temp directory. Returns the path to the downloaded file if successful, otherwise returns null.
         /// </summary>
@@ -261,7 +261,7 @@ namespace SirenSettingInstaller
             if (!Directory.Exists(fivemDirectory))
             {
                 Console.WriteLine($"FiveM installation directory not found. Expected path: {fivemDirectory}");
-               
+
                 // Show a information message box and ask the user to select the FiveM installation directory
                 MessageBox.Show("FiveM installation directory not found. Please select the FiveM installation directory.", "SirenSettingLimitAdjuster Installer", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
@@ -308,7 +308,7 @@ namespace SirenSettingInstaller
                 if (File.Exists(destinationFilePath))
                 {
                     File.Delete(destinationFilePath);
-                } 
+                }
 
                 // Copy the file
                 File.Copy(asiFilePath, destinationFilePath);
@@ -366,7 +366,7 @@ namespace SirenSettingInstaller
             }
             else
             {
-                                // Show a information message box saying that the installtion is complete
+                // Show a information message box saying that the installtion is complete
                 MessageBox.Show("Installation is complete. Have fun!", "SirenSettingLimitAdjuster Installer", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 Application.Exit();
             }
