@@ -48,8 +48,11 @@ jobs:
       - name: Publish
         run: dotnet publish -c Release -o out
 
+      - name: Rename Executable
+        run: mv out/SirenSettingInstaller.dll out/SirenSettingInstaller.exe
+
       - name: Upload Executable
         uses: actions/upload-artifact@v2
         with:
-          name: SirenSettingsInstaller
+          name: SirenSettingsInstaller.exe
           path: out
